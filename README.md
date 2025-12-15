@@ -20,7 +20,7 @@ In logistics, data accuracy is mission-critical: even the best operations cannot
 
 <p align ="justify"> To illustrate the impact of data quality, an Order Completion chart was designed. The dashboard allows filtering by delivery route, carrier, or date range, helping quickly identify the most common error categories. The visualization shows that 85% of orders are delivered without issues, while 15% experience problems attributable to data quality. These metrics reinforce the need for data cleansing and help monitor improvements over time. </p>
 
-<img width="1024" height="1024" alt="ChatGPT Image 15 dic 2025, 01_16_16 p m" src="https://github.com/user-attachments/assets/90d81573-40da-4925-9369-c151a20d1b7c" />
+<img width="600" height="425" alt="ChatGPT Image 15 dic 2025, 01_16_16 p m" src="https://github.com/user-attachments/assets/90d81573-40da-4925-9369-c151a20d1b7c" />
 
 ### Methodology
 
@@ -60,7 +60,7 @@ Other: Excel for spot checks, ETL tools, and industry-standard data-quality prac
 
 
 <img width="600" height="425" alt="ChatGPT Image 15 dic 2025, 01_33_24 p m" src="https://github.com/user-attachments/assets/155354dc-82b3-4098-8c5e-40fc22dedada" />
-<img width="600" height="425" alt="ChatGPT Image 15 dic 2025, 01_33_42 p m" src="https://github.com/user-attachments/assets/514bcd06-d929-4363-8a1c-0ebb72e043dc" />
+
 
 #### Results
 
