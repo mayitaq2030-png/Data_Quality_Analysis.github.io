@@ -6,7 +6,7 @@
 
 ### Business Problem:
 
-In logistics, data accuracy is mission-critical: even the best operations cannot deliver an order if the address is wrong. Several issues were identified across the company:
+In logistics, data accuracy is mission-critical. Several issues were identified across the company:
 
 - Incomplete or poorly formatted addresses: missing street names, invalid postal codes, inconsistent formats.
 
