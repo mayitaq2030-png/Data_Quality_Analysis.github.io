@@ -1,4 +1,4 @@
-# Data Quality Analysis – Global Logistics Company
+# Data Quality Analysis Global Logistics Company
 
 ### Executive Summary:
 
@@ -59,8 +59,8 @@ Other: Excel for spot checks, ETL tools, and industry-standard data-quality prac
 #### Results & Recommendations
 
 
-<img width="1024" height="625" alt="ChatGPT Image 15 dic 2025, 01_33_24 p m" src="https://github.com/user-attachments/assets/155354dc-82b3-4098-8c5e-40fc22dedada" />
-<img width="1480" height="812" alt="ChatGPT Image 15 dic 2025, 01_33_42 p m" src="https://github.com/user-attachments/assets/514bcd06-d929-4363-8a1c-0ebb72e043dc" />
+<img width="600" height="425" alt="ChatGPT Image 15 dic 2025, 01_33_24 p m" src="https://github.com/user-attachments/assets/155354dc-82b3-4098-8c5e-40fc22dedada" />
+<img width="600" height="425" alt="ChatGPT Image 15 dic 2025, 01_33_42 p m" src="https://github.com/user-attachments/assets/514bcd06-d929-4363-8a1c-0ebb72e043dc" />
 
 #### Results
 
